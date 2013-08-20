@@ -1,5 +1,5 @@
 use Rack::Static,
-    :urls => %w(/images /js /css),
+    :urls => %w(/assets /images /js /css),
     :root => 'public',
     :index => 'index.html'
 
