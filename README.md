@@ -3,7 +3,7 @@ simple-rack
 
 Rack based simple app. Serving static files.
 
-# Usage
+### Usage
 
 ```bash
 $ bundle install
